@@ -27,12 +27,12 @@ spring-cloud-dubbo 微服务示例
 其它参考：
 
 我的spring-cloud系列博客：
-[http://www.cnblogs.com/yjmyzz/tag/spring-cloud/](http://www.cnblogs.com/yjmyzz/tag/spring-cloud/)
+# [https://blog.csdn.net/luozhonghua2014?viewmode=contents](https://blog.csdn.net/luozhonghua2014?viewmode=contents)
+# [http://www.cnblogs.com/yjmyzz/tag/spring-cloud/](https://blog.csdn.net/luozhonghua2014?viewmode=contents)
 
 ---
-by [luozhonghua](http://yjmyzz.cnblogs.com/) @2017
+#by [luozhonghua](https://blog.csdn.net/luozhonghua2014?viewmode=contents) @2017
 
 =======
 # spring-cloud-dubbo
-spring-cloud-dubbo
  
