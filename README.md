@@ -10,6 +10,7 @@ spring-cloud-dubbo 微服务示例
 2. 配置中心(config-server)
 2. 服务熔断(hystrix)
 3. 微服务网关（包括：安全校验、灰度发布）-zuul
+4. 分库分表sharding-jdbc
 
 ---
 运行需知：

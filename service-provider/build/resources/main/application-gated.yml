@@ -1,7 +1,0 @@
-server:
-  port: 8001
-
-eureka:
-  instance:
-    metadata-map:
-      gated-launch: true

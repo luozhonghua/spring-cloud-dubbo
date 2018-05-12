@@ -1,0 +1,16 @@
+spring:
+   application:
+       name: spring-boot-mybatis-sharding-jdbc
+server:
+  context-path: /springboot
+
+mybatis:
+   datasource:
+          url: jdbc:mysql://127.0.0.1:3306/%s?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
+          username: root
+          password: root
+logging:
+   level:
+      com:
+        alibaba:
+           druid: debug
