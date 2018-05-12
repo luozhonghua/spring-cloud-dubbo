@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: application
+  cloud:
+    config:
+      profile: dev
+      label: master
+      discovery:
+        enabled: true
+        service-id: config-server
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://user:pass@server1:8100/eureka,http://user:pass@server2:8200/eureka
+

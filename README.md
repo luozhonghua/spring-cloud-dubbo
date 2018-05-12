@@ -27,6 +27,12 @@ spring-cloud-dubbo 微服务示例
 4. service-consumer(服务消费者)
 5. service-gateway(微服务网关）
 
+
+---
+测试：
+
+http://192.168.1.113:9002/order/1/11100
+
 ---
 其它参考：
 
