@@ -7,4 +7,5 @@ include 'hystrix-dashboard'
 include 'config-server'
 include 'service-gateway'
 include 'zipkin-server'
+include 'activemq-jms'
 
