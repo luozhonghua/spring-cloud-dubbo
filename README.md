@@ -1,6 +1,9 @@
  
 spring-cloud-dubbo 微服务示例
----
+
+将做成通用的脚手架，包含springboot,springcloud,dubbo混搭设计与实现
+
+
 主要内容：
 
 1. 服务注册与发现（eureka-server)
